@@ -15,7 +15,6 @@ Formato:
       "pause": true,
       "message": "Texto que verá el lector (máx. 200 caracteres)",
       "novedades": false,
-      "downloads": false,
       "minGapSeconds": 5
     }
   }
